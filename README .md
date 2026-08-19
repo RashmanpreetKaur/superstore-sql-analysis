@@ -23,7 +23,8 @@ The SQL project answers the following business questions:
 [superstore_queries.sql](./superstore_queries.sql)
 
 ## 🔎 Key Insights
-![Q5 Profit Margin by Region](./q5_results.png)
+[View Q5 Profit Margin by Region — result screenshot](./q5_results.png)
+
 Some of the key observations from the analysis include:
 * **Technology** is the top-performing category with **$835,900** in total sales, ahead of Furniture ($733,447) and Office Supplies ($703,503).
 * The **West region** is the strongest performer overall — it has both the highest total sales (**$713,471**) and the highest profit margin (**14.36%**), landing in the "Medium" tier.
